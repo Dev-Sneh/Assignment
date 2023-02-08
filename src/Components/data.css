@@ -1,0 +1,7 @@
+.data-grid-container {
+    background-color:mediumaquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

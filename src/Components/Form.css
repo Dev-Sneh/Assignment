@@ -1,0 +1,13 @@
+
+.formContainer {
+    background-color:mediumaquamarine;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.heading{
+    color: black;
+}
+
